@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(16,20): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(16,17): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(16,14): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(36,24): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(37,25): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(63,30): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(63,23): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(63,20): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(63,17): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(135,18): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(138,60): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\Pong Game\main.cpp(142,60): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  Pong Game.vcxproj -> C:\Users\kalim\OneDrive\Masaüstü\pong game\Pong Game\x64\Debug\Pong Game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
