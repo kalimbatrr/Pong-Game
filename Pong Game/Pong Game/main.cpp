@@ -105,7 +105,7 @@ int main() {
 	InitWindow(screen_width, screen_height, "Pong Game");
 	SetTargetFPS(60);
 
-	ball.radius = 30;
+	ball.radius = 10;
 	ball.x = screen_width / 2;
 	ball.y = screen_height / 2;
 	ball.speedx = 7;
